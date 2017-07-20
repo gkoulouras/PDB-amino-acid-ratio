@@ -1,0 +1,10 @@
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\bin\Release\PDB_AminoAcidsRatio.exe.config
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\bin\Release\PDB_AminoAcidsRatio.exe
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\bin\Release\PDB_AminoAcidsRatio.pdb
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\bin\Release\PDB_AminoAcidsRatio.xml
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\bin\Release\EPPlus.dll
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\obj\Release\PDB_AminoAcidsRatio.Resources.resources
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\obj\Release\PDB_AminoAcidsRatio.vbproj.GenerateResource.Cache
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\obj\Release\PDB_AminoAcidsRatio.exe
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\obj\Release\PDB_AminoAcidsRatio.xml
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\PDB_AminoAcidsRatio\PDB_AminoAcidsRatio\obj\Release\PDB_AminoAcidsRatio.pdb
