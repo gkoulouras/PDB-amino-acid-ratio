@@ -9,7 +9,7 @@ For more information about the Protein Data Bank format please visit the followi
 https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/pdbintro.html
 </br></br>
 You can directly download the executable application by following the link below
-http://apps.grigoriskoulouras.com/software/seqsecanalyzer_ver_1.0.zip
+http://apps.grigoriskoulouras.com/software/PDBAminoAcidsRatio_ver_1.0.zip
 
 <strong><i>PDB_AminoAcidsRatio</i></strong> is an open source console application available freely to all users under a GNU license basis.
 </br>
