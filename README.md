@@ -11,7 +11,7 @@ https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/pdbintro.html
 You can directly download the executable application by following the link below
 http://apps.grigoriskoulouras.com/software/PDBAminoAcidsRatio_ver_1.0.zip
 
-<strong><i>PDB_AminoAcidsRatio</i></strong> is an open source console application available freely to all users under a GNU license basis.
+<strong><i>PDB_AminoAcidsRatio</i></strong> is an open source console application available freely to all users.
 </br>
 This console application is written in VB.NET using the Framework 4.5.2
 
