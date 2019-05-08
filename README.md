@@ -1,4 +1,4 @@
-# PDB_AminoAcidsRatio
+# PDB-amino-acid-ratio
 
 A console application for the estimation of the ratio of amino acids from PDB-formatted files.
 </br>
@@ -11,7 +11,7 @@ https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/pdbintro.html
 You can directly download the executable application from the following link
 http://apps.grigoriskoulouras.com/software/PDBAminoAcidsRatio_ver_1.0.zip
 
-<strong><i>PDB_AminoAcidsRatio</i></strong> is an open source console application available freely to all users.
+<strong><i>PDB-amino-acid-ratio</i></strong> is an open source console application available freely to all users.
 </br>
 This console application is written in VB.NET using the Framework 4.5.2
 
